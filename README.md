@@ -3,6 +3,8 @@
 Chitter Challenge
 =================
 
+![Imgur](http://imgur.com/vgr1qXf.png)
+
 
 Introduction
 ------------
@@ -13,7 +15,7 @@ Features
 -------
 * User can sign up, log in and log out
 * Once logged in, post a message (peep) on Chitter
-* Peeps displayed showing poster's name and the time at which the post is created
+* Peeps displayed showing poster's username and the time at which the post is created
 
 Instructions
 ------------------
@@ -40,12 +42,7 @@ Next, to start up the server:
 $ rackup
 ```
 
-Visit `localhost:9292` in your browser to use the app. You should see the index page.
-
-To post a peep, please sign up:
-
-
-You should then be able to create a peep:
+Visit `localhost:9292` in your browser to use the app. You should see the index page. Sign up and get peeping!
 
 
 Testing
